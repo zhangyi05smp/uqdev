@@ -6,7 +6,8 @@
   transform: none !important;
   text-align: left !important;
   position: relative !important;
-  padding: 2rem 0rem !important;
+  padding: 1rem 0rem !important;
+  margin-bottom: 1rem;
   top: auto !important;
   right: auto !important;
 }
